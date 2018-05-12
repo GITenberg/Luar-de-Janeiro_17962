@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7723
     wikipedia: http://pt.wikipedia.org/wiki/Augusto_Gil
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17962#Luar-de-Janeiro
 gutenberg_bookshelf: PT Poesia
 gutenberg_issued: '2006-03-10'
 gutenberg_type: Text
